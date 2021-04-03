@@ -43,7 +43,6 @@ What is semantic **HTML** elements?
  - Sections were created to remove some of the divs that were over used in the file.
 
  - Added alt attributes to images in benifts class and contents class.
-![]("C:\Users\nvald\OneDrive\Documents\Capture.PNG")
 
  - Created an id to "search-engine-optimization" so user would be able to get navigated to its content. 
 
